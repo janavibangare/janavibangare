@@ -12,7 +12,7 @@
 <!--Linkedin-->
 <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindra-yadav-376ab31b7" height="30" width="40" /></a>
 <!--Instagram-->
-<a href="https://instagram.com/raviroyal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviroyal26" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviroyal26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
